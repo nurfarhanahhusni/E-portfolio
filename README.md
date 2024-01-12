@@ -49,14 +49,20 @@ Hello guys !! welcome to my profile . My name is Nur Farhanah Husni Binti Nor Fa
  <h2 align="left">💪 Self-Strenght :</h2> 
  
 
-## 📂 My Assignments :
+## 📚 My Assignments :
 
 ### Assingment 1 📍
-https://github.com/nurfarhanahhusni/NALI-2023.git
+📂https://github.com/nurfarhanahhusni/NALI-2023.git
 
 ### Assignment 2 📍
+📂https://github.com/nurfarhanahhusni/INDUSTRY-TALK.git
 
 ### Assignment 3 📍
+📂https://github.com/nurfarhanahhusni/Visit-To-UTMDigital-Attended-Virtual-Talk.git
 
 ### Assigment 4 📍
 
+### PC Assemble Lab Session 🖥️
+📂https://github.com/nurfarhanahhusni/PC-ASSEMBLE-LAB-.git
+
+### Design Thinking ✨
