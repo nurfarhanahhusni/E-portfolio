@@ -88,7 +88,7 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 📂https://github.com/nurfarhanahhusni/Visit-To-UTMDigital-Attended-Virtual-Talk.git
 
 ### Assigment 4 📍
-
+📂https://github.com/nurfarhanahhusni/INDUSTRY-TALK-2.git
 ### PC Assemble Lab Session 🖥️
 📂https://github.com/nurfarhanahhusni/PC-ASSEMBLE-LAB-.git
 
