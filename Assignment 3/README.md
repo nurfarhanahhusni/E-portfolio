@@ -1,9 +1,8 @@
-![image](https://github.com/nurfarhanahhusni/E-portfolio/assets/148424765/7f076466-d580-4817-a559-9342decc100d)
+![VISIT to Utm digital](https://github.com/nurfarhanahhusni/E-portfolio/assets/148424765/747d6dfb-e072-4895-82e7-4aef10755bf3)
 # Reflection 📝
 
 ## What I had gain from the visit ✨:
 The industry visit presents a valuable opportunity for UTM's students to examine both the internal and external facest of UTM Digital, particularly the services they offer.
-
 From the industry visit, we enable to acquire a deeper understanding of UTM Digital, including its structures and the services it extends to the entire UTM community. Previously, our knowledge was limited to UTM WIFI and myUTM portal. The visit revealed additional services such as UTM ID, UTM SMART application, and the UTM e-learning system, which are vital components they we might not have been aware of without this firsthand experience.  
 
 The visit enhanced students' comprehension and application of Technology and Information System (TIS) course material. Industry especially form Oracle, shared insight into cloud concepts, aligning with the coursework and deepening understanding through a Q&A session.
