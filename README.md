@@ -73,8 +73,33 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
  
 <h2 align="left">💪 Soft-Skills :</h2>
 
-1. Self- decipline
-   - As a student, I've identified a few skills that have helped me achieve both academically and emotionally. My greatest strength is my discipline. I have a rigid routine that includes studying, regular exercise, and getting enough sleep. This practice has helped me succeed academically and maintain a healthy lifestyle. Resilience is one of my other strongest traits. Learning is a difficult journey, but my ability to get over challenges is what sets me apart. I view setbacks as chances for growth rather  than obstacles. Thanks to this perspective, I've been able to conquer academic challenges with hope and perseverance. Curiosity is another thing that drives me. I'm     constantly searching for fresh approaches to learning outside of the classroom.
+1. **Communication Skills :**
+   - I understand the importance of effective communication in all aspects of my life.
+   - I actively listen, articulate my ideas clearly, and adjust my communication style for different audiences.
+   - My communication skills help build rapport, encourage teamwork, and make it easier to persuade others.
+
+2. **Emotional Intelligence :**
+   - I recognize, understand, and manage my emotions while empathizing with others.
+   - My high emotional intelligence enhances my ability to work well in teams and improve interpersonal interactions.
+   - I am resilient and skilled in navigating social situations, contributing to a positive and harmonious work environment.
+  
+3. **Problem-solving :**
+   - I excel in analyzing situations, identifying challenges, and crafting practical solutions.
+   - My approach involves critical thinking, creativity, and a proactive attitude toward addressing issues.
+     
+4. **Time Management :**
+   - I am adept at organizing and prioritizing tasks, consistently meeting deadlines, and efficiently managing my time.
+   - My strong time management skills contribute to my productivity and reliability in various endeavors.
+
+5. **Leadership :**
+   - Even without a formal leadership role, I possess strong leadership skills.
+   - I naturally motivate and guide others, take initiative, and make decisions, fostering a positive working environment and inspiring confidence in those around me.
+
+<h2 align="left">🖌️ Project :</h2>     
+
+  **:atom:  MASTECC (2.0)**
+  - [Comic STEM](https://github.com/nurfarhanahhusni/nurfarhanahhusni/assets/148424765/78e02ea3-4f42-416b-87c2-560dc52beefa)
+
  
 ## 📚 My Assignments :
 
