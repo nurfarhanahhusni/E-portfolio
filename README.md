@@ -114,7 +114,9 @@ Hello! Nur Farhanah Husni Binti Nor Faizal is my name. I was called Farhanah by 
 
 ### Assignment 4 📍
 📂https://github.com/nurfarhanahhusni/INDUSTRY-TALK-2.git
+
 ### PC Assemble Lab Session 🖥️
 📂https://github.com/nurfarhanahhusni/PC-ASSEMBLE-LAB-.git
 
 ### Design Thinking ✨
+📂https://github.com/nurfarhanahhusni/Design-Thinking.git
